@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="oop_lab_5_rpv_task_2.MainClass">
+    <Position X="25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_lab_5_rpv_task_2.OrdinaryCalc">
+    <Position X="22.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAADADQAAAgAAAAAAAAAAAAAAAAAADAAAAAAAQ=</HashCode>
+      <FileName>OrdinaryCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop_lab_5_rpv_task_2.AdvancedClass">
+    <Position X="22.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAQAAAAADAAAAAAAA=</HashCode>
+      <FileName>AdvancedCalc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="oop_lab5_rpv_task_2.AbstractCalc">
+    <Position X="19.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>AbstractCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="oop_lab5_rpv_task_2.IAdvanced">
+    <Position X="19.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAdvanced.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
